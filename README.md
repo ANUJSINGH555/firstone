@@ -1,2 +1,2 @@
 # firstone
-just starting my journey of using python 
+just starting my journey of learning and using github
